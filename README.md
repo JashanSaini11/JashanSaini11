@@ -1,23 +1,71 @@
 <h1 align="center">Hi 👋, I'm Jashandeep Singh</h1>
-<h3 align="center">I'm a passionate developer who enjoys building practical projects and learning new technologies. I focus on writing clean code and solving real-world problems.</h3>
+<h3 align="center">
+A passionate developer who enjoys building practical projects and learning new technologies.<br/>
+I focus on writing clean code and solving real-world problems.
+</h3>
 
-- 🔭 I’m currently working on **Foodo Full Stack Food Delevery website**
+<hr/>
 
-- 🌱 I’m currently learning **Frontend: • Advanced React & GSAP animations • UI/UX best practices Backend: • Redis (caching, performance) • Kafka (event-driven basics) • API design fundamentals • System Design**
+<ul>
+  <li>🔭 I’m currently working on <strong>Foodo – Full Stack Food Delivery Website</strong></li>
 
-- 👯 I’m looking to collaborate on **Open-source frontend projects**
+  <li>🌱 I’m currently learning:
+    <br/><br/>
+    • Advanced React & GSAP animations<br/>
+    • UI/UX best practices<br/>
+    • Backend fundamentals: Redis (caching, performance), Kafka (event-driven basics)<br/>
+    • API design fundamentals & System Design
+  </li>
 
-- 👨‍💻 All of my projects are available at [JashanSaini11](JashanSaini11)
+  <br/>
 
-- 💬 Ask me about **react, gsap, UI/UX design**
+  <li>👯 I’m looking to collaborate on <strong>open-source frontend projects</strong></li>
 
-- 📫 How to reach me **jashansaini97624@gmail.com**
+  <li>👨‍💻 All of my projects are available at:
+    <a href="https://github.com/JashanSaini11" target="_blank">
+      https://github.com/JashanSaini11
+    </a>
+  </li>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16cYQ6Xqv7O7jIOBBFEXWnFNjmiLHmWQ5/view?usp=drivesdk](https://drive.google.com/file/d/16cYQ6Xqv7O7jIOBBFEXWnFNjmiLHmWQ5/view?usp=drivesdk)
+  <li>💬 Ask me about <strong>React, GSAP, UI/UX Design</strong></li>
 
-<h3 align="left">Connect with me:</h3>
+  <li>📫 How to reach me:
+    <strong>jashansaini97624@gmail.com</strong>
+  </li>
+
+  <li>📄 Know about my experiences:
+    <a href="https://drive.google.com/file/d/16cYQ6Xqv7O7jIOBBFEXWnFNjmiLHmWQ5/view" target="_blank">
+      Resume
+    </a>
+  </li>
+</ul>
+
+<hr/>
+
+<h3 align="left">Languages & Tools</h3>
+
+<h4>Frontend</h4>
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,figma,framer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h4>Backend</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
+</p>
+
+<h4>Currently Learning</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kafka,java,spring" />
+</p>
+
+<h4>Tools</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+<hr/>
+
+<p align="center">
+  ⚡ Fun fact: I enjoy polishing UI details more than adding new features.
+</p>
