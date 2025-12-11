@@ -56,7 +56,7 @@ I focus on writing clean code and solving real-world problems.
 
 <h4>Currently Learning</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kafka,java,spring" />
+  <img src="https://skillicons.dev/icons?i=kafka,AWS,SQL" />
 </p>
 
 <h4>Tools</h4>
