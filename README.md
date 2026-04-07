@@ -35,7 +35,7 @@ I focus on writing clean code and solving real-world problems.
 
   <li>💼 Portfolio:
     <a href="https://jashansaini.vercel.app" target="_blank">
-      Resume
+      Portfolio
     </a>
   </li>
 </ul>
