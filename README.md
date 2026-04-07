@@ -33,8 +33,8 @@ I focus on writing clean code and solving real-world problems.
     <strong>jashansaini97624@gmail.com</strong>
   </li>
 
-  <li>📄 Know about my experiences:
-    <a href="https://drive.google.com/file/d/16cYQ6Xqv7O7jIOBBFEXWnFNjmiLHmWQ5/view" target="_blank">
+  <li>💼 Portfolio:
+    <a href="https://jashansaini.vercel.app" target="_blank">
       Resume
     </a>
   </li>
